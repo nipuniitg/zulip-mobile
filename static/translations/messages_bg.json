@@ -1,7 +1,7 @@
 {
   "{_}": "{_}",
-  "I have a Zulip account": "Имам Zulip акаунт",
-  "I am new to Zulip": "Нов съм в Zulip",
+  "I have a SpinApp account account": "Имам SpinApp акаунт",
+  "I am new to SpinApp": "Нов съм в SpinApp",
   "Home": "Всичко",
   "All messages": "Всички съобщения",
   "Private messages": "Лични съобщения",
@@ -156,7 +156,7 @@
   "Offline": "Офлайн",
   "Do not mark messages read on scroll": "Не маркирай съобщенията като прочетени при скролиране",
   "Topics": "Теми",
-  "Welcome to Zulip!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to zulipchat.com from your web browser.\n\nHope to see you back here soon!\n": "Добре дошли в Zulip!\n\nПърво трябва да създадете профил от компютъра си. Ако не сте сигурни къде да започнете, посетете zulipchat.com от уеб браузъра си.\n\nНадяваме се да ви видим скоро!\n",
+  "Welcome to SpinApp!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to SpinAppchat.com from your web browser.\n\nHope to see you back here soon!\n": "Добре дошли в SpinApp!\n\nПърво трябва да създадете профил от компютъра си. Ако не сте сигурни къде да започнете, посетете SpinAppchat.com от уеб браузъра си.\n\nНадяваме се да ви видим скоро!\n",
   "Add subscribers": "Добави абонати",
   "Set yourself to away": "Set yourself to away",
   "Clear": "Clear",

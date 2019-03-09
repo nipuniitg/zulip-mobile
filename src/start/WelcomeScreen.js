@@ -17,14 +17,14 @@ class WelcomeScreen extends PureComponent<Props> {
     return (
       <Screen title="Welcome!" centerContent padding canGoBack={false}>
         <ZulipButton
-          text="I have a Zulip account"
+          text="I have a SpinApp account"
           onPress={() => {
             dispatch(navigateToRealmScreen(''));
           }}
         />
         <ViewPlaceholder height={20} />
         <ZulipButton
-          text="I am new to Zulip"
+          text="I am new to SpinApp"
           onPress={() => {
             dispatch(navigateToWelcomeHelp());
           }}

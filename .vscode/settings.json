@@ -13,4 +13,5 @@
     "[javascript]": {
         "editor.formatOnSave": true,
     },
+    "java.configuration.updateBuildConfiguration": "automatic",
 }
