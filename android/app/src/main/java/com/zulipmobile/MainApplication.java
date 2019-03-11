@@ -11,6 +11,7 @@ import com.github.yamill.orientation.OrientationPackage;
 import com.imagepicker.ImagePickerPackage;
 import com.learnium.RNDeviceInfo.RNDeviceInfo;
 import com.nikolaiwarner.RNTextInputReset.RNTextInputResetPackage;
+// import com.agontuk.RNFusedLocation.RNFusedLocationPackage;
 import com.reactnative.photoview.PhotoViewPackage;
 import com.remobile.toast.RCTToastPackage;
 import com.zmxv.RNSound.RNSoundPackage;
@@ -47,6 +48,7 @@ public class MainApplication extends Application implements ReactApplication {
                     new RNDeviceInfo(),
                     new ZulipNativePackage(),
                     new NotificationsPackage()
+                    // new RNFusedLocationPackage()
             );
         }
 
